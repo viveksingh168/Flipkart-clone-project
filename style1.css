@@ -1,0 +1,480 @@
+* {
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        border: border-box;
+        
+}
+.navbar{
+        height: 60px;
+        background-color: blue;
+        color: white;
+       justify-content: space-evenly;
+        align-items: center;
+        display: flex;
+       
+}
+.nav-logo{
+        height: 40px;
+        width: 160px;
+}
+.logo{
+        background-image: url(flip1.png);
+        background-size: cover;
+        height: 40px;
+        width: 160%;
+        display: flex;
+        align-items: center;
+}
+.border:hover{
+        border: 2px solid white;
+}
+.search-icon{
+        height: 35px;
+        width: 500px;
+        background-color: rgba(255, 251, 251, 0.945);
+        align-items: center;
+        justify-content: space-evenly;
+        border-radius: 5px;
+}
+.add-icon{
+        color: black;
+        display: flex;
+        align-items: center;
+        padding-top: 10px;
+        padding-left: 7px;
+}
+.myprofile{
+        display: flex;
+}
+.list{
+        align-items: center;
+        padding-left: 3px;
+}
+.name{
+
+       padding-left:4px; 
+}
+.cart-name{
+        display: flex;
+}
+.cart-name{
+        align-items: center;
+        padding-left: 2px;
+}
+.seller{
+        display: flex;
+        align-items: center;
+        
+}
+.seller-name{
+        padding-left:  4px;;
+}
+.list-icon{
+        font-size: 15px;
+}
+.navbar-second{
+        height: px;
+        width: 100%;
+        color: gray;
+}
+.nav-first{
+        height: 110px;
+        background-color:rgb(246, 239, 241);
+        display: flex;
+        justify-content: space-evenly;
+        
+        padding-top: 15px;
+        padding-right: 45px;
+        padding-left: 45px;
+}
+.box1{
+        height: 100px;
+        width: 100px;
+       
+        align-items: center;
+        justify-content: center;
+        background-color: wheat;
+        background-image: url(OIP1.jpeg);
+        background-size: cover;
+        border-radius: 5px;
+}
+.box2{
+        height: 100px;
+        width: 100px;
+        
+        align-items: center;
+        justify-content: center;
+        background-color: wheat;
+        background-image: url(abc.jpeg);
+        background-size: cover;
+        border-radius: 5px;
+       
+}
+.box3{
+        height: 100px;
+        width: 100px;
+        
+        align-items: center;
+        justify-content: center;
+        background-color: wheat;
+        background-image: url(fash.jpeg);
+        background-size: cover;
+        border-radius:5px;
+       
+}
+.box4{
+        height: 100px;
+        width: 100px;
+        
+        align-items: center;
+        justify-content: center;
+        background-color: wheat;
+        background-image: url(pho.webp);
+        background-size: cover;
+        border-radius: 3px;
+       
+}
+.box5{
+        height: 100px;
+        width: 100px;
+        
+        align-items: center;
+        justify-content: center;
+        background-color: wheat;
+        background-image: url(fur.jpeg);
+        background-size: cover;
+        border-radius: 5px;
+       
+}
+.box6{
+        height: 100px;
+        width: 100px;
+        
+        align-items: center;
+        justify-content: center;
+        background-color: wheat;
+        background-image: url(beauty.jpg);
+        background-size: cover;
+        border-radius: 5px;
+       
+}
+.box7{
+        height: 100px;
+        width: 100px;
+        
+        align-items: center;
+        justify-content: center;
+        background-color: wheat;
+        background-image: url(toy.jpeg);
+        background-size: cover;
+        border-radius: 5px;
+       
+}
+.box8{
+        height: 100px;
+        width: 100px;
+        
+        align-items: center;
+        justify-content: center;
+        background-color: wheat;
+        background-image: url(fly.jpeg);
+        background-size: cover;
+        border-radius: 7px;
+       
+}
+.box9{
+        height: 100px;
+        width: 100px;
+        
+        align-items: center;
+        justify-content: center;
+        background-color: wheat;
+        background-image: url(her.jpg);
+        background-size: cover;
+        border-radius: 7px;
+       
+}
+.list-second{
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        padding-right: 35px;
+        padding-left: 35px;
+}
+.navbar-third{
+
+        
+}
+.nav-item{
+        height: 15px;
+        background-color:rgb(246, 239, 241);
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        padding-bottom: 3px;
+        font-size: 15px;
+}
+.main{
+
+}
+.main-item{
+        height: 270px;
+        background-color: bisque;
+        background-image: url(kart.webp);
+}
+.navbar-four{
+         height: 300px;
+         width: 100%;
+         background-color: rgba(255, 251, 251, 0.945);
+         align-items: center;
+        
+        
+}
+.nav-four{
+        height: 300px;
+        display: flex;
+        justify-content: space-evenly;
+        color: black;
+
+}
+.navbar-six{
+
+}
+.name-pro1{
+        height: 15px;
+        background-color: rgba(255, 251, 251, 0.945);
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        padding-bottom: 3px;
+        font-size: 15px;
+        margin-bottom: 15px;
+}
+.box10{
+        height: 280px;
+        width: 280px;
+       
+        align-items: center;
+        justify-content: center;
+        background-color: wheat;
+        background-image: url(ear.jpg);
+        background-size: cover;
+        border-radius: 5px;
+        margin-top: 15px;
+}
+.box11{
+        height: 280px;
+        width: 280px;
+       
+        align-items: center;
+        justify-content: center;
+        background-color: wheat;
+        background-image: url(head.jpg);
+        background-size: cover;
+        border-radius: 5px;
+        margin-top: 15px;
+}
+.box12{
+        height: 280px;
+        width: 280px;
+       
+        align-items: center;
+        justify-content: center;
+        background-color: wheat;
+        background-image: url(med.jpg);
+        background-size: cover;
+        border-radius: 5px;
+        margin-top: 15px;
+}
+
+.box13{
+        height: 280px;
+        width: 280px;
+       
+        align-items: center;
+        justify-content: center;
+        background-color: wheat;
+        background-image: url(ele.avif);
+        background-size: cover;
+        border-radius: 5px;
+        margin-top: 15px;
+}
+.box14{
+        height: 280px;
+        width: 280px;
+       
+        align-items: center;
+        justify-content: center;
+        background-color: wheat;
+        background-image: url(project.jpeg);
+        background-size: cover;
+        border-radius: 5px;
+        margin-top: 15px;
+}
+.hero-section{
+        height: 650px;
+        background-color: beige;
+
+}
+.hero{
+        height: 650px;
+        background-image: url(screen.png);
+        background-size: cover;
+        display: flex;
+      margin-top: 20px;
+}
+.hero-second{
+        height: 300px;
+        width: 100%;
+        background-color: rgba(255, 251, 251, 0.945);
+        align-items: center;
+}
+.hero1{
+        height: 300px;
+        display: flex;
+        justify-content: space-evenly;
+        color: black;
+        margin-top: 20px;
+}
+.box15{
+        height: 280px;
+        width: 280px;
+       
+        align-items: center;
+        justify-content: center;
+        background-color: wheat;
+        background-image: url(mug.jpeg);
+        background-size: cover;
+        border-radius: 5px;
+        margin-top: 15px;
+}
+.box16{
+        height: 280px;
+        width: 280px;
+       
+        align-items: center;
+        justify-content: center;
+        background-color: wheat;
+        background-image: url(pho.webp);
+        background-size: cover;
+        border-radius: 5px;
+        margin-top: 15px;
+}
+.box17{
+        height: 280px;
+        width: 280px;
+       
+        align-items: center;
+        justify-content: center;
+        background-color: wheat;
+        background-image: url(R.jpeg);
+        background-size: cover;
+        border-radius: 5px;
+        margin-top: 15px;
+}
+
+.box18{
+        height: 280px;
+        width: 280px;
+       
+        align-items: center;
+        justify-content: center;
+        background-color: wheat;
+        background-image: url(rgb.webp);
+        background-size: cover;
+        border-radius: 5px;
+        margin-top: 15px;
+}
+.box19{
+        height: 280px;
+        width: 280px;
+       
+        align-items: center;
+        justify-content: center;
+        background-color: wheat;
+        background-image: url(shoes.avif);
+        background-size: cover;
+        border-radius: 5px;
+        margin-top: 15px;
+}
+.navbar-five{
+
+}
+.name-pro{
+        height: 15px;
+        background-color: rgba(255, 251, 251, 0.945);
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        padding-bottom: 3px;
+        font-size: 15px;
+        margin-bottom: 15px;
+        color:black;
+        
+}
+
+footer{
+        margin-top: 15px ;
+}
+.foot-pannel1{
+        background-color: #37475a;
+        color: white;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 0.85rem;
+
+
+}
+.foot-pannel2{
+        background-color: #222f3d;
+        color: white;
+        height: 300px;
+        display: flex;
+        justify-content: space-evenly;
+}
+ul{
+        margin-top: 15px;
+
+}
+ul a{
+        display: block;
+        font-size: 0.85rem;
+        margin-top: 5px;
+        color: #dddd;
+}
+.foot-pannel3{
+        height: 70px;
+        background-color: #222f3d;
+        color: #37475a;
+        border-top:0.5px solid white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+}
+.logo{
+
+        background-image: url("flip1.png");
+        background-size: cover;
+        
+        height: 50px;
+        width: 170px;
+}
+.foot-pannel4{
+        background-color: #0f1111;
+        color: white;
+        height: 80px;
+}
+.pages{
+        font-size: 0.7rem;
+        text-align: center;
+        padding: 25px;
+
+}
+.copyright{
+        font-size: 0.7rem;
+        text-align: center;
+        padding: 5px;
+}
